@@ -423,7 +423,7 @@ nav ul li a:hover::after {
     color: #fff;
     font-size: 18px;
     font-weight: 600;
-    background: rgb(202, 202, 0);
+    background: #380cb3;
     outline: none;
     border: none;
     padding: 8px 16px;
