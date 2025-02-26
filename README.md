@@ -4,7 +4,6 @@ Welcome to **ShareCost**, a landing page for our hackathon project! ShareCost is
 
 
 ---
-lINK 
 shareyourcost.netlify.app
 
 ## Overview
