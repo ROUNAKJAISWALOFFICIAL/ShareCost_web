@@ -5,7 +5,7 @@ Welcome to **ShareCost**, a landing page for our hackathon project! ShareCost is
 
 --- 
 Landing Page link 
-[Click here](shareyourcost.netlify.app)
+[https://shareyourcost.netlify.app/](https://shareyourcost.netlify.app/)
 
 
 ## Overview
