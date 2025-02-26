@@ -2,7 +2,9 @@
 
 Welcome to **ShareCost**, a landing page for our hackathon project! ShareCost is a platform designed to simplify cost-sharing among groups, providing transparency and efficiency.
 
-lINK ---------
+
+---
+lINK 
 shareyourcost.netlify.app
 
 ## Overview
